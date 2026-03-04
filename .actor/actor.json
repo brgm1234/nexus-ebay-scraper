@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-ebay-scraper",
+  "title": "eBay Scraper",
+  "description": "Crawls ebay.com search listings, extracts title, price, condition, bids, timeLeft, imageUrl, itemUrl, shipping, seller",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}

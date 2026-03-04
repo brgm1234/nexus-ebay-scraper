@@ -1,0 +1,15 @@
+{
+  "name": "nexus-ebay-scraper",
+  "version": "1.0.0",
+  "description": "Crawls ebay.com search listings, extracts title, price, condition, bids, timeLeft, imageUrl, itemUrl, shipping, seller",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "apify": "^3.1.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "playwright": "^1.40.0"
+  }
+}
